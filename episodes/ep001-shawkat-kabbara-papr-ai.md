@@ -12,6 +12,12 @@
 
 ---
 
+## About Shawkat Kabbara
+
+Shawkat Kabbara is the founder and CEO of Papr, the context intelligence layer for AI. Shawkat has spent most of his career in search and machine learning with roles at Microsoft (Bing), Yahoo, and Meta (Facebook app search) and most recently at Apple, where he was the product founder of the App Intents Swift SDK powering Apple Intelligence Actions, helped launch Vision Pro, and optimized ML models to run on memory-constrained devices. He started Papr to solve a problem he kept hitting himself: AI systems can find similar content, but they can't reason over the relationships that actually drive business decisions. Today Papr's graph-native memory, built on Neo4j, powers AI agents for companies in regulated industries where provenance and auditability aren't optional.
+
+---
+
 ## About Papr.ai
 
 Papr.ai is a context intelligence platform that gives AI agents long-term memory through a graph-native architecture built on Neo4j. Papr powers memory and retrieval for customers in fintech, commerce, healthcare, and insurance, turning unstructured data into queryable knowledge graphs via developer-friendly memory policies and a GraphQL API.
