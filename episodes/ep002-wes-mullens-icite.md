@@ -20,14 +20,27 @@ Wes is the founder and CEO of Icite. Before founding the company, he was CTO at 
 
 ## About Icite
 
-_Coming soon._
+Icite is a cloud-based cybersecurity company focused on Advanced Identity Threat Detection and Response (ITDR). Where SIEMs and EDRs see events and endpoints, Icite sees identity — resolving who a user is across every IDP, SaaS app, and local account in the environment, then using that graph to power detections no traditional security tool can match.
+
+- **Website:** [icite.io](https://icite.io/)
 
 ## Episode Summary
 
-_Coming soon._
+Wes walks through how Icite built a three-database architecture — PostgreSQL for structured data, ClickHouse for time series, and Neo4j as the source of truth for identity resolution. The core problem: 90% of breaches tie back to an identity, but a SIEM can never fully resolve who a user is across dozens of IDPs and SaaS apps where the same person appears under different usernames, email formats, and provisioning paths. Graph makes that resolution fast, and it makes the detections that depend on it possible.
+
+He also covers why the team migrated from AWS Neptune to Neo4j (deep graph traversal at scale, the GDS library, and Aura's managed hosting), how AI agents writing Cypher queries instead of SQL cut token costs by nearly an order of magnitude, and where Icite is headed next: permission-structure analysis, blast radius scoring, and tracking the identities of AI agents themselves.
 
 ---
 
 ## Topics Covered
 
-_Coming soon._
+- Why identity became the primary attack surface — and why SIEMs, EDRs, and cloud tools can't fully see it
+- The three-database architecture: PostgreSQL (structured) + ClickHouse (time series) + Neo4j (identity graph)
+- Identity resolution: mapping one person across multiple IDPs, SaaS apps, local accounts, and SSO gaps
+- Moving from AWS Neptune to Neo4j — deep graph traversal, the GDS library, and performance at scale
+- Neo4j Aura managed service as a force multiplier for a small startup team
+- How the detection engine uses graph traversal to combine identity, permissions, and activity in a single query
+- AI agents writing Cypher via a custom tool — token efficiency vs. equivalent SQL (25k vs. 200k tokens per query)
+- The Icite MCP server and graph as a natural fit for agentic infrastructure
+- Non-human identities: tracking AI agent permissions and detecting drift vs. human access
+- What's next: attack path analysis, blast radius scoring, and posture based on permission structures
