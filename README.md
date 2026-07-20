@@ -12,10 +12,10 @@ We ask every guest the same question: *describe the moment you realized a graph 
 
 ## Episodes
 
-| # | Guest | Company | Air Date | | |
-|---|-------|---------|----------|-|-|
-| [001](episodes/ep001-shawkat-kabbara-papr-ai.md) | Shawkat Kabbara | [Papr.ai](https://papr.ai) | June 18, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GunEhdCKDF8) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473403484319502336/) |
-| [002](episodes/ep002-wes-mullens-icite.md) | Wes Mullens | Icite | July 16, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2C_N_UeMsa4) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/neo4j_the-connected-startup-episode-2-every-startup-activity-7477370374373175298-kRC7) |
+| # | Guest | Company | Air Date | | | |
+|---|-------|---------|----------|-|-|-|
+| [001](episodes/ep001-shawkat-kabbara-papr-ai.md) | Shawkat Kabbara | [Papr.ai](https://papr.ai) | June 18, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GunEhdCKDF8) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473403484319502336/) | |
+| [002](episodes/ep002-wes-mullens-icite.md) | Wes Mullens | Icite | July 16, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2C_N_UeMsa4) | | [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2821439121) |
 
 ---
 

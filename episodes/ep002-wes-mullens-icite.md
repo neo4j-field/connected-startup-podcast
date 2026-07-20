@@ -8,7 +8,7 @@
 ## Watch & Listen
 
 - **YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=2C_N_UeMsa4)
-- **LinkedIn:** [Watch on LinkedIn](https://www.linkedin.com/posts/neo4j_the-connected-startup-episode-2-every-startup-activity-7477370374373175298-kRC7)
+- **Twitch:** [Watch on Twitch](https://www.twitch.tv/videos/2821439121)
 
 ---
 
