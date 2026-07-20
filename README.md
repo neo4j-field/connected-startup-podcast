@@ -19,4 +19,10 @@ We ask every guest the same question: *describe the moment you realized a graph 
 
 ---
 
+## About the Neo4j Startup Program
+
+The [Neo4j Startup Program](https://neo4j.com/startup-program/) gives early-stage companies access to Neo4j's graph platform, technical expertise, and go-to-market support. Every guest on The Connected Startup is a current or alumni member — founders building products where the relationships in their data matter as much as the data itself.
+
+---
+
 Produced by [Neo4j](https://neo4j.com).
