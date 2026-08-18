@@ -7,7 +7,7 @@
 
 ## Watch & Listen
 
-- **YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=2C_N_UeMsa4)
+- **YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=Nr71tOsuF_M)
 - **Twitch:** [Watch on Twitch](https://www.twitch.tv/videos/2821439121)
 
 ---
