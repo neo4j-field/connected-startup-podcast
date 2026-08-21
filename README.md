@@ -6,7 +6,7 @@
 
 We ask every guest the same question: *describe the moment you realized a graph was the right tool.*
 
-**Live every 3rd Thursday at 12pm Eastern.** Subscribe via [RSS](https://anchor.fm/s/116509008/podcast/rss).
+**Live every 3rd Thursday at 12pm Eastern.**
 
 ---
 
@@ -29,6 +29,20 @@ We ask every guest the same question: *describe the moment you realized a graph 
 | 013 | TBD | — | June 17, 2027 | | |
 | 014 | TBD | — | July 15, 2027 | | |
 | 015 | TBD | — | August 19, 2027 | | |
+
+---
+
+## Listen & Watch
+
+Episodes are broadcast live on YouTube and LinkedIn. Past episodes are also available on:
+
+| Platform | Format | Link |
+|----------|--------|------|
+| Spotify | Video + Audio | [The Connected Startup](https://open.spotify.com/show/5949qrPT7NiMvJKLaEXW7m) |
+| Amazon Music | Audio | [The Connected Startup](https://music.amazon.com/podcasts/0f509301-7b3d-40e0-8459-2e8d9e8470cb/the-connected-startup) |
+| iHeartRadio | Audio | [The Connected Startup](https://www.iheart.com/podcast/269-the-connected-startup-341932119) |
+
+Or subscribe via [RSS](https://anchor.fm/s/116509008/podcast/rss) in any podcast app.
 
 ---
 
