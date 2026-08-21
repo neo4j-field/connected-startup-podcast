@@ -6,7 +6,7 @@
 
 We ask every guest the same question: *describe the moment you realized a graph was the right tool.*
 
-**Live every 3rd Thursday at 12pm Eastern.**
+**Live every 3rd Thursday at 12pm Eastern.** Subscribe via [RSS](https://anchor.fm/s/116509008/podcast/rss).
 
 ---
 
