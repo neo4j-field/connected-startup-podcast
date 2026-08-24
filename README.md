@@ -41,6 +41,7 @@ Episodes are broadcast live on YouTube and LinkedIn. Past episodes are also avai
 | Spotify | Video + Audio | [The Connected Startup](https://open.spotify.com/show/5949qrPT7NiMvJKLaEXW7m) |
 | Amazon Music | Audio | [The Connected Startup](https://music.amazon.com/podcasts/0f509301-7b3d-40e0-8459-2e8d9e8470cb/the-connected-startup) |
 | iHeartRadio | Audio | [The Connected Startup](https://www.iheart.com/podcast/269-the-connected-startup-341932119) |
+| Apple Podcasts | Audio | [The Connected Startup](https://podcasts.apple.com/us/podcast/the-connected-startup/id6803961519) |
 
 Or subscribe via [RSS](https://anchor.fm/s/116509008/podcast/rss) in any podcast app.
 
