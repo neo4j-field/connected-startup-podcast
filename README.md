@@ -17,7 +17,7 @@ We ask every guest the same question: *describe the moment you realized a graph 
 | [001](episodes/ep001-shawkat-kabbara-papr-ai.md) | Shawkat Kabbara | [Papr.ai](https://papr.ai) | June 18, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GunEhdCKDF8) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473403484319502336/) |
 | [002](episodes/ep002-wes-mullens-icite.md) | Wes Mullens | [Icite](https://icite.io/) | July 16, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Nr71tOsuF_M) | |
 | [003](episodes/ep003-yermie-cohen-memorang.md) | Dr. Yermie Cohen | [Memorang](https://memorang.com/) | August 20, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CysUrZzE7JM) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/events/7493680478932123648/) |
-| 004 | TBD | — | September 17, 2026 | | |
+| [004](episodes/ep004-alex-dollery-taskd.md) | Alex Dollery | [Taskd](https://taskd.ai/) | September 17, 2026 | [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MOT3LvWMRug) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/events/7505328681788227585/) |
 | 005 | TBD | — | October 15, 2026 | | |
 | 006 | TBD | — | November 19, 2026 | | |
 | 007 | TBD | — | December 17, 2026 | | |
