@@ -23,6 +23,16 @@ Each episode file follows this structure:
 6. **Topics Covered** — bullet list
 7. **Links Mentioned** — any resources the guest referenced on air
 
+## Show Flow
+
+Every episode follows the same structure. Use it when creating notes for the show host and when structuring episode summaries from the transcript:
+
+1. **Introduction**
+2. **Stage 1: The Problem**
+3. **Stage 2: The Graph Moment** — the transition from Stage 1 to Stage 2 is always the question *"Describe the moment you realized a graph was the right tool."*
+4. **Stage 3: What Made It Possible and Where Are You Going Now**
+5. **Closing**
+
 ## README Episode Table
 
 - Columns: `#`, `Guest`, `Company`, `Air Date`, then one column per platform (YouTube, LinkedIn)
